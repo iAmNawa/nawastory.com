@@ -1,0 +1,13 @@
+{
+  "name": "nawastory.com",
+  "description": "my website bitches!",
+  "dependencies": {
+    "body-parser": "",
+    "compression": "",
+    "express": "",
+    "jquery": "^2.2.0",
+    "less": "^2.6.0",
+    "sass": "",
+    "stylus": ""
+  }
+}
