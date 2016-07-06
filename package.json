@@ -1,9 +1,10 @@
 {
-  "dependencies":{
-    "browserify":"",
-    "cookie-parser":"1",
-    "express":"4",
-    "level":"",
-    "xhr":""
+  "dependencies": {
+    "browserify": "",
+    "cookie-parser": "1",
+    "express": "4",
+    "jade": "^1.11.0",
+    "level": "",
+    "xhr": ""
   }
 }
