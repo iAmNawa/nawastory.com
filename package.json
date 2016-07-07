@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "angular": "^1.5.7",
     "browserify": "",
     "cookie-parser": "1",
     "express": "4",
