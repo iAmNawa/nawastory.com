@@ -1,0 +1,59 @@
+[
+  {
+    "question" : "How much does a typical olympic bar weigh?",
+    "answers" : [
+      { "id" : 0, "text" : "25lb"},
+      { "id" : 1, "text" : "35lb"},
+      { "id" : 2, "text" : "45lb"},
+      { "id" : 3, "text" : "55lb"}
+    ],
+    "correct" : 2,
+    "feedback" : "Easy one to start"
+  },
+  {
+    "question" : "Which of these is the most healthy for you?",
+    "answers" : [
+      { "id" : 0, "image" : "quiz/images/one.jpg"},
+      { "id" : 1, "image" : "quiz/images/two.jpeg"},
+      { "id" : 2, "image" : "quiz/images/three.jpg"},
+      { "id" : 3, "image" : "quiz/images/four.png"}
+    ],
+    "correct" : 2
+  },
+  {
+    "question" : "A pound of muscle weighs more than a pound of fat.",
+    "answers" : [
+      { "id" : 0, "text" : "true"},
+      { "id" : 1, "text" : "false"}
+    ],
+    "correct" : 1,
+    "feedback" : "A pound is a pound"
+  },
+  {
+    "question" : "Maintaining physical fitness requires major lifestyle changes.",
+    "answers" : [
+      { "id" : 0, "text" : "true"},
+      { "id" : 1, "text" : "false"}
+    ],
+    "correct" : 1,
+    "feedback" : "Fitness can be achieved through small changes in what you eat and your level of activity."
+  },
+  {
+    "question" : "The more you sweat during a workout, the more fat the body is burning.",
+    "answers" : [
+      { "id" : 0, "text" : "true"},
+      { "id" : 1, "text" : "false"}
+    ],
+    "correct" : 1,
+    "feedback" : "'This is false,' says Cedric Bryant, chief exercise physiologist for the American Council on Exercise. 'The amount you sweat is indicative of your body's ability to maintain its normal body temperature.' "
+  },
+  {
+    "question" : "Crunches and sit-ups are the best way to lose belly fat.",
+    "answers" : [
+      { "id" : 0, "text" : "true"},
+      { "id" : 1, "text" : "false"}
+    ],
+    "correct" : 1,
+    "feedback" : "The best way to lose belly fat is to change your body composition overall by moderate exercise and eating healthy."
+  }
+]
